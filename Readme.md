@@ -7,3 +7,5 @@
  4. [./documentation/Readme-js.md](./documentation/Readme-js.md)
 
 
+Notes: Docs Files
+1. [./documentation/js-Note/js-notes.md](./documentation/js-Note/js-notes.md)
